@@ -1,0 +1,7 @@
+CSS Cascading  Style Sheet
+syntax-
+
+htmlElement {
+    propertyName: value;
+}
+

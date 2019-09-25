@@ -1,0 +1,51 @@
+html { 
+    /* rgb - red, green, blue values range from 0 - 255 */
+    background-color: rgb(50, 255, 255);
+}
+h1 {
+    font-weight: bold;
+    font-style: italic;
+    font-size: 26px;
+    text-align: center;
+    
+
+}
+
+h2 {
+    font-size: 18px;
+}
+p {
+    font-style: oblique;
+}
+ol {
+    text-align: left;
+}
+
+ul {
+    background-color: brown;
+}
+
+.first_class {
+    color: red;
+}
+
+.second_class {
+    color:purple;
+}
+
+.third_class {
+    color:gray;
+    font-weight: bold;
+}
+
+#ribeye {
+    width: 200px;
+    height: 100px;
+}
+#gumballs {
+    width: 300px;
+    height: 150px;
+}
+#dairy {
+    color:green;
+}
